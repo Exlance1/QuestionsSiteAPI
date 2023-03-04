@@ -1,5 +1,13 @@
 # Question Site API
-I develop an API for the question site. Users create profiles. Users can share posts to ask questions. Users can like and comment on posts. I used Spring Boot,
-Hibernate, Spring Security technologies. I used MySQL for database. I applied the OOP principles.
+I developed an API for the question site.
+
+## Tools and technologies used:
+- Java 17
+- Spring Boot
+- Spring MVC
+- Spring Security
+- Spring Data JPA ( Hibernate)
+- MySQL
+- Eclipse STS
 
 
